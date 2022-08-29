@@ -1,9 +1,3 @@
-//https://sebhastian.com/javascript-confirmation-yes-no/#:~:text=You%20can%20create%20a%20JavaScript,can%20specify%20as%20its%20argument.
-
-//https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-number-in-javascript/#:~:text=awesome%22))%3B-,How%20to%20convert%20a%20string%20to%20a%20number%20in%20JavaScript,base%20in%20a%20numeral%20system.
-
-
-
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
