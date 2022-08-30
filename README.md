@@ -2,18 +2,12 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - My motivation for this project was to make prompts for the user to generate a password using special characters, numbers and lowercaes/uppercase letters.
 - I built this project because generating passwords can be useful.
 - This solves the problem of having to make a password and the computer making one for you.
 - What did you learn? I learned that there are many ways to generate a password with differentiating prompts and alerts.
 
 ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
 ![screenshot of passowrd generator with new password generated](assets/readme%20screenshot.png)
 
