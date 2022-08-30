@@ -9,7 +9,9 @@
 
 ## Usage
 
+'''
 ![screenshot of passowrd generator with new password generated](assets/readme%20screenshot.png)
+'''
 
 ## Credits
 
