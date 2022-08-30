@@ -15,18 +15,17 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![alt text](assets/readme%20screenshot.png)
 
 ## Credits
 
 followed tutorials and some documentation for certain parts of code:
 
-//https://sebhastian.com/javascript-confirmation-yes-no/#:~:text=You%20can%20create%20a%20JavaScript,can%20specify%20as%20its%20argument.
+https://sebhastian.com/javascript-confirmation-yes-no/#:~:text=You%20can%20create%20a%20JavaScript,can%20specify%20as%20its%20argument.
 
-//https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-number-in-javascript/#:~:text=awesome%22))%3B-,How%20to%20convert%20a%20string%20to%20a%20number%20in%20JavaScript,base%20in%20a%20numeral%20system.
+https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-number-in-javascript/#:~:text=awesome%22))%3B-,How%20to%20convert%20a%20string%20to%20a%20number%20in%20JavaScript,base%20in%20a%20numeral%20system.
 
+https://www.codegrepper.com/code-examples/javascript/how+to+generate+random+characters+from+array+javascript
 
 ## License
 
